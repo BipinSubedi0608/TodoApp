@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, #d3cce3, #e9e4f0);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.todo-container {
+    background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+
+/* .sweet-alert {
+    z-index: 1000;
+} */
